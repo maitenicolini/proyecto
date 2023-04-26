@@ -55,3 +55,8 @@ footer{
     clear: both;
     margin-top: 30px;
 }
+.holder{
+    width: 960px;
+    margin: 0 auto;
+    background-color: red;
+}
